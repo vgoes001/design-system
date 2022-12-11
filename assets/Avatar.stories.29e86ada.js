@@ -1,0 +1,2 @@
+import{A as t}from"./index.71e59891.js";import"./index.e8acadd1.js";import"./iframe.f1f5e27f.js";import"./index.9b48b9a0.js";import"./jsx-runtime.9c8545e1.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/vgoes001.png",alt:"Vitor Goes"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.29e86ada.js.map
