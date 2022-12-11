@@ -1,7 +1,7 @@
 /* eslint-disable prettier/prettier */
 import { StoryObj, Meta } from '@storybook/react'
 
-import { Box, BoxProps, Text } from '@ignite-ui/react'
+import { Box, BoxProps, Text } from '@ignite-ui-vgoes/react'
 
 export default {
     title: 'Surface/Box',

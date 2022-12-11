@@ -1,6 +1,6 @@
 /* eslint-disable prettier/prettier */
 import { StoryObj, Meta } from '@storybook/react'
-import { Box, MultiStep, MultiStepProps } from '@ignite-ui/react'
+import { Box, MultiStep, MultiStepProps } from '@ignite-ui-vgoes/react'
 
 export default {
     title: 'Form/Multi Step',

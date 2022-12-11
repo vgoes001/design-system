@@ -1,7 +1,7 @@
 /* eslint-disable prettier/prettier */
 import { StoryObj, Meta } from '@storybook/react'
 
-import { Avatar, AvatarProps } from '@ignite-ui/react'
+import { Avatar, AvatarProps } from '@ignite-ui-vgoes/react'
 
 export default {
     title: 'Data display/Avatar',
